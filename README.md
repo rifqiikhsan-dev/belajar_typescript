@@ -30,7 +30,7 @@ Repository ini berisi solusi dari beberapa tugas dasar dalam TypeScript, termasu
    - Input: nama lengkap
    - Output: inisial dalam huruf kapital
 
-## 📌 Contoh Output
+## 📌 Gambar Tugas
 
 ![Tugas TypeScript](images/tugas_ts.png)
 
